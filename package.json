@@ -1,0 +1,32 @@
+{
+  "name": "mykoa2reactblog",
+  "version": "1.0.0",
+  "description": "koa2+React",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binbin0915/MyKoa2ReactBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binbin0915/MyKoa2ReactBlog/issues"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-compress": "^3.0.0",
+    "koa-jwt": "^3.5.1",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.5"
+  },
+  "homepage": "https://github.com/binbin0915/MyKoa2ReactBlog#readme"
+}
